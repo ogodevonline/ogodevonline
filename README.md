@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VasiliySilver
 - 👀 I’m interested in Web Development
-- 📫 How to reach me: svaaugust@gmail.com
-- ✈️ Telegram: @ogoclients
+- 📫 How to reach me: ogodevonline@gmail.com
+- ✈️ Telegram: @ogodevonline
 
 <!---
 VasiliySilver/VasiliySilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
